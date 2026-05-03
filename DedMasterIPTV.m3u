@@ -53,15 +53,9 @@ https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 #EXTGRP:Azerbaycan
 http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
-#EXTGRP:Azerbaycan
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632430
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3973/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
-#EXTGRP:Azerbaycan
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632449
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk2RT8Bn/images-removebg-preview.png", Live TV
 #EXTGRP:Azerbaycan
 https://tv.mobyservice.ru/livetv/index.m3u8
@@ -70,19 +64,25 @@ https://tv.mobyservice.ru/livetv/index.m3u8
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png", FTV TV
 #EXTGRP:Azerbaycan
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632453
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563781
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9131.png", Show plus tv
 #EXTGRP:Azerbaycan
-https://rtmp.showplus.tv/hls/myshow.m3u8
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563783
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
+#EXTGRP:Azerbaycan
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563758
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
+#EXTGRP:Azerbaycan
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563777
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:Azerbaycan
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632451
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563779
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QW0xBp1.png", kanal 65 cinema
 #EXTGRP:Azerbaycan
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632412
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563740
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZND3n8r.png", kanal 65 komedi
 #EXTGRP:Azerbaycan
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632441
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563769
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:Azerbaycan
 http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/2120/index.m3u8
