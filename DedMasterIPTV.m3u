@@ -86,18 +86,21 @@ http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/2120/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SBhSXwk/Cine5tv.jpg",Cine 5
+#EXTGRP:Azerbaycan
+https://bit.ly/3R8fDIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1
+#EXTGRP:Azerbaycan
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/946924681/YANSIMA_TV2.gif", YANSIMA SİNEMA 2 HDᵀᴿ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA 2 HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpSSF4g.png", YANSIMA music
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1
-#EXTGRP:Azerbaycan
-https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 #EXTINF:-1,TE tv
 #EXTGRP:Azerbaycan
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
@@ -210,9 +213,6 @@ https://catcast-tv2.koprulu2.workers.dev/?id=karisikyayin.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://catcast-tv2.koprulu2.workers.dev/?id=yansinematv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/946924681/YANSIMA_TV2.gif", YANSIMA SİNEMA 2 HDᵀᴿ
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
 #EXTINF:-1 tvg-id="50751" tvg-name="underworld" tvg-logo="https://catcast.tv/assets/no-logo.svg",Underworld
 #EXTGRP:Azerbaycan
 https://catcast-tv2.koprulu2.workers.dev/?id=underworld.m3u8
