@@ -74,9 +74,6 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
 #EXTGRP:Azerbaycan
 https://pastebin.com/raw/C13XaXTB
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
-#EXTGRP:Azerbaycan
-http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563779
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QW0xBp1.png", kanal 65 cinema
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
