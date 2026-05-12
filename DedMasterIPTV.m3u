@@ -487,6 +487,7 @@ https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/vH9SPRdK/In-Shot-20260211-200753518.png" group-title="Azerbaycan",Sahand TV 
 https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
 
+
 #EXTINF:0 tvg-id="50341" tvg-name="PlayerCınema Action" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema Action 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
